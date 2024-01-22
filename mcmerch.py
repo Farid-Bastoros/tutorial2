@@ -18,7 +18,8 @@ def main():
 
     print("Final price for the item is ${:.2f}".format(final_price))
 
-
+if __name__ == "__main__":
+    main()
 
 """
 # Tutorial 2 Python File # mcmerch.py
